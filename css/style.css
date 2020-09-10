@@ -80,8 +80,8 @@ section {
 }
 
 .header__content {
-  background: url(/img/img-hero.png) 90% 60% no-repeat fixed,
-    url(/img/background-hero.jpg) no-repeat fixed;
+  background: url(../img/img-hero.png) 90% 60% no-repeat fixed,
+    url(../img/background-hero.jpg) no-repeat fixed;
   background-size: 650px, cover;
   height: 850px;
   position: relative;
